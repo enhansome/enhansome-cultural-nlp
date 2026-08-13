@@ -1,0 +1,122 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Survey"
+    },
+    {
+      "description": "| | | | | |",
+      "items": [],
+      "title": "Dataset"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image Captioning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vision and Language"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Evaluation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "LLMs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text-to-image"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "VLMs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text-to-image"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "LLMs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "VLMs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cross-cultural Variations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Alignment"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Methodology"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "Please feel free to send me pull requests or email (khanuja.simran7@gmail.com) to add links.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "License\n\nTo the extent possible under law, Simran Khanuja has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "Licenses"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:41.758Z",
+    "original_repository": "simran-khanuja/awesome-cultural-nlp",
+    "original_repository_sha": "91aa0b25a3ad6ee9c9383e707d000fde751f941c",
+    "enhanced_repository": "enhansome/enhansome-cultural-nlp",
+    "enhanced_repository_description": null,
+    "title": "Awesome Cultural NLP: with stars"
+  }
+}
