@@ -1,7 +1,601 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "| | | | | |",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DIWALI - Diversity and Inclusivity aWare cuLture specific Items for India: Dataset and Assessment of LLMs for Cultural Text Adaptation in Indian Context",
+          "description": "EMNLP Main (Oral) 2025 2509.17399 Dataset, Code, Project Page Data, Cultural Text Adaptation, LLM as Evaluator, Analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1059204784,
+            "language": "Python",
+            "last_commit": "2025-11-06T09:49:58Z",
+            "owner": "pramitsahoo",
+            "repo": "culture-evaluation",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi3Hate: Multimodal, Multilingual, and Multicultural Hate Speech Detection with Vision–Language Models",
+          "description": "NAACL 2025 https://aclanthology.org/2025.naacl-long.490/ Code HF Datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 874317337,
+            "language": "Python",
+            "last_commit": "2025-01-06T22:36:07Z",
+            "owner": "MinhDucBui",
+            "repo": "Multi3Hate",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GIMMICK -- Globally Inclusive Multimodal Multitask Cultural Knowledge Benchmarking",
+          "description": "Arxiv 2025 2502.13766 floschne/gimmick HF Datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 934935916,
+            "language": "Python",
+            "last_commit": "2025-02-21T11:03:31Z",
+            "owner": "floschne",
+            "repo": "gimmick",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture",
+          "description": "EMNLP 2024 https://aclanthology.org/2024.emnlp-main.1063/ Code Data Data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 863411797,
+            "language": "Python",
+            "last_commit": "2025-06-26T16:10:57Z",
+            "owner": "lyan62",
+            "repo": "FoodieQA",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages",
+          "description": "NeurIPS D&B 2024 2406.09948 Code and Data Data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 809241547,
+            "language": "Python",
+            "last_commit": "2025-08-10T11:48:26Z",
+            "owner": "nlee0212",
+            "repo": "BLEnD",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond Aesthetics: Cultural Competence in Text-to-Image Models",
+          "description": "Arxiv 2024 2407.06863 Data Data",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 827265074,
+            "language": null,
+            "last_commit": "2025-01-20T11:37:44Z",
+            "owner": "google-research-datasets",
+            "repo": "cube",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "M5 -- A Diverse Benchmark to Assess the Performance of Large Multimodal Models Across Multilingual and Multicultural Vision-Language Tasks",
+          "description": "Arxiv 2024 2407.03791 floschne/m5b HF Datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 876634836,
+            "language": "Python",
+            "last_commit": "2024-11-25T09:46:59Z",
+            "owner": "floschne",
+            "repo": "m5b",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NORMAD: A Benchmark for Measuring the Cultural Adaptability of Large Language Models",
+          "description": "Arxiv 2024 2404.12464 Data Data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 804042806,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-18T14:51:14Z",
+            "owner": "Akhila-Yerukola",
+            "repo": "NormAd",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An image speaks a thousand words, but can everyone listen? On image transcreation for cultural relevance",
+          "description": "Arxiv 2024 2404.01247 Code and Data Data + Application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 758359825,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-03T16:48:44Z",
+            "owner": "simran-khanuja",
+            "repo": "image-transcreation",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "No Culture Left Behind: Massively Multi-Cultural Knowledge Acquisition & LM Benchmarking on 1000+ Sub-Country Regions and 2000+ Ethnolinguistic Groups",
+          "description": "Arxiv 2024 2402.09369v1 Data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 760392584,
+            "language": "Python",
+            "last_commit": "2025-03-12T04:08:29Z",
+            "owner": "yrf1",
+            "repo": "LLM-MassiveMulticultureNormsKnowledge-NCLB",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The PRISM Alignment Project: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models",
+          "description": "Arxiv 2024 (under review) 2404.16019 Repository Code and Data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 768167045,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-25T09:15:57Z",
+            "owner": "HannahKirk",
+            "repo": "prism-alignment",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis",
+          "description": "NAACL 2024 2308.16705 Data+Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 730575076,
+            "language": "Python",
+            "last_commit": "2024-06-24T04:14:23Z",
+            "owner": "nlee0212",
+            "repo": "CREHate",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence",
+          "description": "LREC-COLING '24 https://arxiv.org/pdf/2403.06412 Data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 688822733,
+            "language": null,
+            "last_commit": "2024-12-23T03:03:02Z",
+            "owner": "rladmstn1714",
+            "repo": "CLIcK",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bridging Cultural Nuances in Dialogue Agents through Cultural Value Surveys",
+          "description": "EACL Findings 2024 2401.10352 Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 745157652,
+            "language": null,
+            "last_commit": "2024-03-25T07:19:44Z",
+            "owner": "yongcaoplus",
+            "repo": "cuDialog",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Culturally Aware Natural Language Inference",
+          "description": "EMNLP 2023 (Findings) 2023.findings-emnlp.509 Data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 707457441,
+            "language": null,
+            "last_commit": "2023-12-10T07:50:26Z",
+            "owner": "SALT-NLP",
+            "repo": "CulturallyAwareNLI",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Global Voices, Local Biases: Socio-Cultural Prejudices across Languages",
+          "description": "EMNLP 2023 2310.17586 Data Data+Analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 657837336,
+            "language": "TeX",
+            "last_commit": "2023-10-25T18:10:52Z",
+            "owner": "iamshnoo",
+            "repo": "weathub",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NORMSAGE: Multi-Lingual Multi-Cultural Norm Discovery from Conversations On-the-Fly",
+          "description": "EMNLP 2023 2210.08604 Code and Data NormsKB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 705347783,
+            "language": "Python",
+            "last_commit": "2024-01-02T21:07:32Z",
+            "owner": "yrf1",
+            "repo": "NormSage",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeeGULL: A Stereotype Benchmark with Broad Geo-Cultural Coverage Leveraging Generative Models",
+          "description": "ACL 2023 2305.11840 Code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 642669568,
+            "language": null,
+            "last_commit": "2023-09-25T18:45:45Z",
+            "owner": "google-research-datasets",
+            "repo": "seegull",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FORK: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models",
+          "description": "ACL Findings 2023 2023.findings-acl.631 Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 649070980,
+            "language": null,
+            "last_commit": "2023-11-17T11:37:11Z",
+            "owner": "shramay-palta",
+            "repo": "FORK_ACL2023",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-lingual and Multi-cultural Figurative Language Understanding",
+          "description": "ACL Findings 2023 2305.16171 Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 539243799,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-21T20:57:18Z",
+            "owner": "simran-khanuja",
+            "repo": "Multilingual-Fig-QA",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Re-contextualizing Fairness in NLP: The Case of India",
+          "description": "AACL 2022 2209.12226 Data Data+Analysis",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 550961890,
+            "language": null,
+            "last_commit": "2023-07-04T05:41:31Z",
+            "owner": "google-research-datasets",
+            "repo": "nlp-fairness-for-india",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SocialDial: A Benchmark for Socially-Aware Dialogue Systems",
+          "description": "SIGIR 2023 3539618.3591877 Data Data+Analysis+New Application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 631545581,
+            "language": null,
+            "last_commit": "2023-08-04T02:22:09Z",
+            "owner": "zhanhl316",
+            "repo": "SocialDial",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RENOVI: A Benchmark Towards Remediating Norm Violations in Socio-Cultural Conversations",
+          "description": "NAACL Findings 2024 2024.findings-naacl.196 Data Data+Analysis+New Application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 779574462,
+            "language": null,
+            "last_commit": "2025-02-25T06:15:39Z",
+            "owner": "zhanhl316",
+            "repo": "ReNoVi",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Dataset"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DIWALI - Diversity and Inclusivity aWare cuLture specific Items for India: Dataset and Assessment of LLMs for Cultural Text Adaptation in Indian Context",
+              "description": "EMNLP Main (Oral) 2025 2509.17399 Dataset, Code, Project Page Data, Cultural Text Adaptation, LLM as Evaluator, Analysis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1059204784,
+                "language": "Python",
+                "last_commit": "2025-11-06T09:49:58Z",
+                "owner": "pramitsahoo",
+                "repo": "culture-evaluation",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Having Beer after Prayer? Measuring Cultural Bias in Large Language Models",
+              "description": "ACL 2024 2305.14456 Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 760166549,
+                "language": null,
+                "last_commit": "2025-04-15T07:18:28Z",
+                "owner": "tareknaous",
+                "repo": "camel",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LLMs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "On the Cultural Gap in Text-to-Image Generation",
+              "description": "Arxiv 2023 2307.02971 Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 662968486,
+                "language": null,
+                "last_commit": "2023-07-06T09:16:45Z",
+                "owner": "longyuewangdcu",
+                "repo": "C3-Bench",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text-to-image"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Multi3Hate: Multimodal, Multilingual, and Multicultural Hate Speech Detection with Vision–Language Models",
+              "description": "NAACL 2025 https://aclanthology.org/2025.naacl-long.490/ Code HF Datasets",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 874317337,
+                "language": "Python",
+                "last_commit": "2025-01-06T22:36:07Z",
+                "owner": "MinhDucBui",
+                "repo": "Multi3Hate",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GIMMICK -- Globally Inclusive Multimodal Multitask Cultural Knowledge Benchmarking",
+              "description": "Arxiv 2025 2502.13766 floschne/gimmick HF Datasets",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 934935916,
+                "language": "Python",
+                "last_commit": "2025-02-21T11:03:31Z",
+                "owner": "floschne",
+                "repo": "gimmick",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "VLMs"
+        }
+      ],
+      "title": "Evaluation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity",
+              "description": "ICLR 2024 2308.06198 Code",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 730235152,
+                "language": "Python",
+                "last_commit": "2024-06-03T15:21:20Z",
+                "owner": "facebookresearch",
+                "repo": "DIG-In",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Exploiting Cultural Biases via Homoglyphs in Text-to-Image Synthesis",
+              "description": "JAIR 2023 2209.08891 Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 538408687,
+                "language": "Python",
+                "last_commit": "2024-01-08T12:04:13Z",
+                "owner": "LukasStruppek",
+                "repo": "Exploiting-Cultural-Biases-via-Homoglyphs",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Navigating Cultural Chasms: Exploring and Unlocking the Cultural POV of Text-To-Image Models",
+              "description": "Arxiv 2023 2310.01929 Code (not released yet)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 697651799,
+                "language": null,
+                "last_commit": "2024-08-07T08:42:46Z",
+                "owner": "venturamor",
+                "repo": "CulText-2-I",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Multilingual Conceptual Coverage in Text-to-Image Models",
+              "description": "ACL 2023 2306.01735 Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 580204698,
+                "language": "Python",
+                "last_commit": "2024-10-28T23:50:30Z",
+                "owner": "michaelsaxon",
+                "repo": "CoCoCroLa",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text-to-image"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DIWALI - Diversity and Inclusivity aWare cuLture specific Items for India: Dataset and Assessment of LLMs for Cultural Text Adaptation in Indian Context",
+              "description": "EMNLP Main (Oral) 2025 2509.17399 Dataset, Code, Project Page Data, Cultural Text Adaptation, LLM as Evaluator, Analysis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1059204784,
+                "language": "Python",
+                "last_commit": "2025-11-06T09:49:58Z",
+                "owner": "pramitsahoo",
+                "repo": "culture-evaluation",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CULTURE-GEN: Revealing Global Cultural Perception in Language Models through Natural Language Prompting",
+              "description": "Arxiv 2024 2404.10199v1 Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 785866055,
+                "language": "Python",
+                "last_commit": "2024-11-12T05:38:30Z",
+                "owner": "huihanlhh",
+                "repo": "Culture-Gen",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DOSA: A Dataset of Social Artifacts from Different Indian Geographical Subcultures",
+              "description": "LREC-COLING 2024 2403.14651 Code",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 761935299,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-05-24T08:13:38Z",
+                "owner": "microsoft",
+                "repo": "DOSA",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Attributing Culture-Conditioned Generations to Pretraining Corpora",
+              "description": "ICLR 2025 2412.20760 Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 909930540,
+                "language": "Python",
+                "last_commit": "2025-07-06T18:51:57Z",
+                "owner": "huihanlhh",
+                "repo": "CultureGenAttr",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LLMs"
+        }
+      ],
+      "title": "Analysis"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T15:18:49.046Z",
+    "last_updated": "2026-08-24T14:38:21.983Z",
     "original_repository": "simran-khanuja/awesome-cultural-nlp",
     "original_repository_id": 798468035,
     "original_repository_sha": "91aa0b25a3ad6ee9c9383e707d000fde751f941c",
