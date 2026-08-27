@@ -595,9 +595,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:15:27.233Z",
-    "original_repository": "simran-khanuja/awesome-cultural-nlp",
-    "original_repository_id": 798468035,
+    "last_updated": "2026-08-27T11:31:19.636Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 798468035,
+      "language": null,
+      "last_commit": "2025-09-28T21:58:49Z",
+      "owner": "simran-khanuja",
+      "repo": "awesome-cultural-nlp",
+      "stars": 124
+    },
     "original_repository_sha": "91aa0b25a3ad6ee9c9383e707d000fde751f941c",
     "enhanced_repository": "enhansome/enhansome-cultural-nlp",
     "enhanced_repository_description": null,
