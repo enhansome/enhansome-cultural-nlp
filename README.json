@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[EMNLP 2025 Oral] DIWALI - Diversity and Inclusivity aWare cuLture specific Items for India: Dataset and Assessment of LLMs for Cultural Text Adaptation in Indian Context",
+            "homepage": "https://nlip-lab.github.io/nlip/publications/diwali/",
             "id": 1059204784,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-06T09:49:58Z",
+            "open_issues": 0,
             "owner": "pramitsahoo",
             "repo": "culture-evaluation",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "culture",
+              "llms",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -26,12 +35,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 874317337,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-06T22:36:07Z",
+            "open_issues": 0,
             "owner": "MinhDucBui",
             "repo": "Multi3Hate",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -42,12 +56,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the GIMMICK Paper",
+            "homepage": "https://arxiv.org/pdf/2502.13766",
             "id": 934935916,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-02-21T11:03:31Z",
+            "open_issues": 2,
             "owner": "floschne",
             "repo": "gimmick",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -58,12 +77,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Repo for FoodieQA paper (EMNLP 2024)",
+            "homepage": null,
             "id": 863411797,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-26T16:10:57Z",
+            "open_issues": 0,
             "owner": "lyan62",
             "repo": "FoodieQA",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -74,12 +98,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages",
+            "homepage": null,
             "id": 809241547,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-10T11:48:26Z",
+            "open_issues": 4,
             "owner": "nlee0212",
             "repo": "BLEnD",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -90,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CUBE is a benchmark to evaluate the Cultural Competence of T2I models",
+            "homepage": "https://www.arxiv.org/pdf/2407.06863",
             "id": 827265074,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2025-01-20T11:37:44Z",
+            "open_issues": 3,
             "owner": "google-research-datasets",
             "repo": "cube",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -106,12 +140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo contains the code of our EMNLP 2024 (Findings) paper!",
+            "homepage": "https://aclanthology.org/2024.findings-emnlp.250/",
             "id": 876634836,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-11-25T09:46:59Z",
+            "open_issues": 0,
             "owner": "floschne",
             "repo": "m5b",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -122,12 +161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 804042806,
             "language": "Jupyter Notebook",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-07-18T14:51:14Z",
+            "open_issues": 0,
             "owner": "Akhila-Yerukola",
             "repo": "NormAd",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -138,12 +182,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 758359825,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-03-03T16:48:44Z",
+            "open_issues": 0,
             "owner": "simran-khanuja",
             "repo": "image-transcreation",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -154,12 +203,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 760392584,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-12T04:08:29Z",
+            "open_issues": 1,
             "owner": "yrf1",
             "repo": "LLM-MassiveMulticultureNormsKnowledge-NCLB",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -170,12 +224,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Prism Alignment Project",
+            "homepage": "https://hannahkirk.github.io/prism-alignment/",
             "id": 768167045,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-04-25T09:15:57Z",
+            "open_issues": 0,
             "owner": "HannahKirk",
             "repo": "prism-alignment",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "alignment",
+              "dataset",
+              "human-feedback",
+              "human-feedback-data",
+              "multicultural",
+              "sociotechnical"
+            ]
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -186,12 +252,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dataset and Codes for our paper \"Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis\"",
+            "homepage": "https://arxiv.org/abs/2308.16705",
             "id": 730575076,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-24T04:14:23Z",
+            "open_issues": 2,
             "owner": "nlee0212",
             "repo": "CREHate",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -202,12 +273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in Korean",
+            "homepage": null,
             "id": 688822733,
             "language": null,
+            "license": null,
             "last_commit": "2024-12-23T03:03:02Z",
+            "open_issues": 0,
             "owner": "rladmstn1714",
             "repo": "CLIcK",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -218,12 +294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for EACL 2024 paper: \"Bridging Cultural Nuances in Dialogue Agents through Cultural Value Surveys\".",
+            "homepage": null,
             "id": 745157652,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-25T07:19:44Z",
+            "open_issues": 3,
             "owner": "yongcaoplus",
             "repo": "cuDialog",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -234,12 +315,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Culturally Aware Natural Language Inference",
+            "homepage": "https://aclanthology.org/2023.findings-emnlp.509/",
             "id": 707457441,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-10T07:50:26Z",
+            "open_issues": 0,
             "owner": "SALT-NLP",
             "repo": "CulturallyAwareNLI",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "annotator-disagreement",
+              "culture",
+              "natural-language-inference"
+            ]
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -250,12 +340,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for our paper on biases across languages in LMs accepted at EMNLP 2023",
+            "homepage": "https://iamshnoo.github.io/global_voices_local_biases/",
             "id": 657837336,
             "language": "TeX",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-25T18:10:52Z",
+            "open_issues": 0,
             "owner": "iamshnoo",
             "repo": "weathub",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -266,12 +361,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NormSage: Multi-Lingual Multi-Cultural Norm Discovery from Conversations On-the-Fly",
+            "homepage": null,
             "id": 705347783,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-02T21:07:32Z",
+            "open_issues": 1,
             "owner": "yrf1",
             "repo": "NormSage",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -282,12 +382,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "SeeGULL is a broad-coverage stereotype dataset in English containing stereotypes about identity groups spanning 178 countries across 8 different geo-political regions across 6 continents, as well as state-level identities within the US and India.",
+            "homepage": null,
             "id": 642669568,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2023-09-25T18:45:45Z",
+            "open_issues": 4,
             "owner": "google-research-datasets",
             "repo": "seegull",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -298,12 +403,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for the FORK Dataset introduced at ACL 2023.",
+            "homepage": null,
             "id": 649070980,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2023-11-17T11:37:11Z",
+            "open_issues": 0,
             "owner": "shramay-palta",
             "repo": "FORK_ACL2023",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -314,12 +424,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Creating the multilingual version of Fig-QA",
+            "homepage": null,
             "id": 539243799,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-04-21T20:57:18Z",
+            "open_issues": 0,
             "owner": "simran-khanuja",
             "repo": "Multilingual-Fig-QA",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -330,12 +445,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Contains data resources to replicate results from the paper “Re-contextualizing Fairness in NLP: The Case of India”. ",
+            "homepage": null,
             "id": 550961890,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-07-04T05:41:31Z",
+            "open_issues": 0,
             "owner": "google-research-datasets",
             "repo": "nlp-fairness-for-india",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "fairness",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -346,12 +469,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SocialDial: A Benchmark for Socially-Aware Dialogue Systems (SIGIR'23)",
+            "homepage": null,
             "id": 631545581,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-04T02:22:09Z",
+            "open_issues": 0,
             "owner": "zhanhl316",
             "repo": "SocialDial",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -362,12 +490,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dataset for the ReNoVi paper (NAACL 2024 findings)",
+            "homepage": null,
             "id": 779574462,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-25T06:15:39Z",
+            "open_issues": 1,
             "owner": "zhanhl316",
             "repo": "ReNoVi",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         }
@@ -386,12 +519,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[EMNLP 2025 Oral] DIWALI - Diversity and Inclusivity aWare cuLture specific Items for India: Dataset and Assessment of LLMs for Cultural Text Adaptation in Indian Context",
+                "homepage": "https://nlip-lab.github.io/nlip/publications/diwali/",
                 "id": 1059204784,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-06T09:49:58Z",
+                "open_issues": 0,
                 "owner": "pramitsahoo",
                 "repo": "culture-evaluation",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "culture",
+                  "llms",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T23:50:50.558Z"
             },
@@ -402,12 +544,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CAMeL Dataset",
+                "homepage": null,
                 "id": 760166549,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-04-15T07:18:28Z",
+                "open_issues": 0,
                 "owner": "tareknaous",
                 "repo": "camel",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:50:50.558Z"
             }
@@ -425,12 +572,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-Cultural Challenging Benchmark for Text-to-Image Generation",
+                "homepage": null,
                 "id": 662968486,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-07-06T09:16:45Z",
+                "open_issues": 1,
                 "owner": "longyuewangdcu",
                 "repo": "C3-Bench",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:50:50.558Z"
             }
@@ -448,12 +600,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 874317337,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-06T22:36:07Z",
+                "open_issues": 0,
                 "owner": "MinhDucBui",
                 "repo": "Multi3Hate",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:50:50.558Z"
             },
@@ -464,12 +621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the GIMMICK Paper",
+                "homepage": "https://arxiv.org/pdf/2502.13766",
                 "id": 934935916,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-21T11:03:31Z",
+                "open_issues": 2,
                 "owner": "floschne",
                 "repo": "gimmick",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:50:50.558Z"
             }
@@ -493,12 +655,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This library supports evaluating disparities in generated image quality, diversity, and consistency between geographic regions.",
+                "homepage": null,
                 "id": 730235152,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-03T15:21:20Z",
+                "open_issues": 1,
                 "owner": "facebookresearch",
                 "repo": "DIG-In",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:50:50.558Z"
             },
@@ -509,12 +676,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Journal of Artificial Intelligence Research] Source code for our paper \"Exploiting Cultural Biases via Homoglyphs in Text-to-Image Synthesis\".",
+                "homepage": "https://arxiv.org/abs/2209.08891",
                 "id": 538408687,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-08T12:04:13Z",
+                "open_issues": 0,
                 "owner": "LukasStruppek",
                 "repo": "Exploiting-Cultural-Biases-via-Homoglyphs",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "dall-e",
+                  "dall-e2",
+                  "deep-learning",
+                  "generative-model",
+                  "stable-diffusion",
+                  "text-to-image-generation",
+                  "text-to-image-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T23:50:50.558Z"
             },
@@ -525,12 +705,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code repository for our CulText2I paper",
+                "homepage": null,
                 "id": 697651799,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-07T08:42:46Z",
+                "open_issues": 1,
                 "owner": "venturamor",
                 "repo": "CulText-2-I",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:50:50.558Z"
             },
@@ -541,12 +726,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Conceptual Coverage Across Languages Benchmark for Text-to-Image Models",
+                "homepage": null,
                 "id": 580204698,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-28T23:50:30Z",
+                "open_issues": 0,
                 "owner": "michaelsaxon",
                 "repo": "CoCoCroLa",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:50:50.558Z"
             }
@@ -564,12 +754,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[EMNLP 2025 Oral] DIWALI - Diversity and Inclusivity aWare cuLture specific Items for India: Dataset and Assessment of LLMs for Cultural Text Adaptation in Indian Context",
+                "homepage": "https://nlip-lab.github.io/nlip/publications/diwali/",
                 "id": 1059204784,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-06T09:49:58Z",
+                "open_issues": 0,
                 "owner": "pramitsahoo",
                 "repo": "culture-evaluation",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "culture",
+                  "llms",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T23:50:50.558Z"
             },
@@ -580,12 +779,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and Data for COLM 2024 paper \"CULTURE-GEN: Revealing Global Cultural Perception in Language Models through Natural Language Prompting\"",
+                "homepage": null,
                 "id": 785866055,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-12T05:38:30Z",
+                "open_issues": 0,
                 "owner": "huihanlhh",
                 "repo": "Culture-Gen",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:50:50.558Z"
             },
@@ -596,12 +800,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Dataset of of Social Artifacts from Different Indian Geographical Subcultures",
+                "homepage": null,
                 "id": 761935299,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-05-24T08:13:38Z",
+                "open_issues": 1,
                 "owner": "microsoft",
                 "repo": "DOSA",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:50:50.558Z"
             },
@@ -612,12 +821,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for paper \"Attributing Culture-Conditioned Generations to Pretraining Corpora\"",
+                "homepage": null,
                 "id": 909930540,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-06T18:51:57Z",
+                "open_issues": 0,
                 "owner": "huihanlhh",
                 "repo": "CultureGenAttr",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:50:50.558Z"
             }
@@ -631,15 +845,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:50:50.558Z",
+    "last_updated": "2026-08-29T04:59:57.561Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Resources for cultural NLP research",
+      "homepage": null,
       "id": 798468035,
       "language": null,
+      "license": null,
       "last_commit": "2025-09-28T21:58:49Z",
+      "open_issues": 1,
       "owner": "simran-khanuja",
       "repo": "awesome-cultural-nlp",
-      "stars": 124
+      "stars": 124,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "nlp"
+      ]
     },
     "original_repository_sha": "91aa0b25a3ad6ee9c9383e707d000fde751f941c",
     "enhanced_repository": "enhansome/enhansome-cultural-nlp",
