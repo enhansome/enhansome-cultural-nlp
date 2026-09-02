@@ -282,7 +282,7 @@
             "open_issues": 0,
             "owner": "rladmstn1714",
             "repo": "CLIcK",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T18:08:22.277Z",
+    "last_updated": "2026-09-02T18:24:42.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for cultural NLP research",
