@@ -1,6 +1,6 @@
 # Awesome Cultural NLP: with stars
 
-A curated list of awesome cultural NLP resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,537 | 🐛 92 | 📅 2024-05-17.
+A curated list of awesome cultural NLP resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,538 | 🐛 92 | 📅 2024-05-17.
 
 **Table Of Contents**
 
@@ -208,7 +208,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 
 ## Contributing
 
-Please feel free to send me [pull requests](https://github.com/simran-khanuja/awesome-cultural-nlp/pulls) ⭐ 124 | 🐛 1 | 📅 2025-09-28 or email (<khanuja.simran7@gmail.com>) to add links.
+Please feel free to send me [pull requests](https://github.com/simran-khanuja/awesome-cultural-nlp/pulls) ⭐ 123 | 🐛 1 | 📅 2025-09-28 or email (<khanuja.simran7@gmail.com>) to add links.
 
 ## Licenses
 
@@ -220,4 +220,4 @@ To the extent possible under law, [Simran Khanuja](https://simran-khanuja.github
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
