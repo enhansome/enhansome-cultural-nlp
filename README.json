@@ -170,7 +170,7 @@
             "open_issues": 0,
             "owner": "Akhila-Yerukola",
             "repo": "NormAd",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:29:38.375Z",
+    "last_updated": "2026-09-07T18:58:36.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for cultural NLP research",
