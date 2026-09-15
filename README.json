@@ -103,7 +103,7 @@
             "id": 809241547,
             "language": "Python",
             "license": null,
-            "last_commit": "2025-08-10T11:48:26Z",
+            "last_commit": "2026-09-15T08:32:10Z",
             "open_issues": 4,
             "owner": "nlee0212",
             "repo": "BLEnD",
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:43:09.741Z",
+    "last_updated": "2026-09-15T18:41:43.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for cultural NLP research",
