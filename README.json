@@ -233,7 +233,7 @@
             "open_issues": 0,
             "owner": "HannahKirk",
             "repo": "prism-alignment",
-            "stars": 93,
+            "stars": 94,
             "topics": [
               "alignment",
               "dataset",
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:38:08.062Z",
+    "last_updated": "2026-09-17T18:48:12.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for cultural NLP research",
@@ -854,7 +854,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-09-28T21:58:49Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "simran-khanuja",
       "repo": "awesome-cultural-nlp",
       "stars": 123,
