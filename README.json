@@ -233,7 +233,7 @@
             "open_issues": 0,
             "owner": "HannahKirk",
             "repo": "prism-alignment",
-            "stars": 94,
+            "stars": 95,
             "topics": [
               "alignment",
               "dataset",
@@ -345,7 +345,7 @@
             "id": 657837336,
             "language": "TeX",
             "license": "GPL-3.0",
-            "last_commit": "2023-10-25T18:10:52Z",
+            "last_commit": "2026-09-18T09:47:32Z",
             "open_issues": 0,
             "owner": "iamshnoo",
             "repo": "weathub",
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:48:12.505Z",
+    "last_updated": "2026-09-18T18:03:15.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for cultural NLP research",
