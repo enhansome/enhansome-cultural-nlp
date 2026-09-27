@@ -273,7 +273,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in Korean",
+            "description": "CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in Korean (LREC-COLING 2024)",
             "homepage": null,
             "id": 688822733,
             "language": null,
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T18:17:38.315Z",
+    "last_updated": "2026-09-27T18:52:52.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for cultural NLP research",
