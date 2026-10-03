@@ -208,7 +208,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 
 ## Contributing
 
-Please feel free to send me [pull requests](https://github.com/simran-khanuja/awesome-cultural-nlp/pulls) ⭐ 123 | 🐛 2 | 📅 2025-09-28 or email (<khanuja.simran7@gmail.com>) to add links.
+Please feel free to send me [pull requests](https://github.com/simran-khanuja/awesome-cultural-nlp/pulls) or email (<khanuja.simran7@gmail.com>) to add links.
 
 ## Licenses
 
@@ -220,4 +220,4 @@ To the extent possible under law, [Simran Khanuja](https://simran-khanuja.github
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
