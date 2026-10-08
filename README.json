@@ -233,7 +233,7 @@
             "open_issues": 0,
             "owner": "HannahKirk",
             "repo": "prism-alignment",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "alignment",
               "dataset",
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:23:59.025Z",
+    "last_updated": "2026-10-08T20:29:15.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for cultural NLP research",
