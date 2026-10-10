@@ -1,6 +1,6 @@
 # Awesome Cultural NLP: with stars
 
-A curated list of awesome cultural NLP resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,585 | 🐛 97 | 📅 2024-05-17.
+A curated list of awesome cultural NLP resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,586 | 🐛 97 | 📅 2024-05-17.
 
 **Table Of Contents**
 
@@ -31,7 +31,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | --------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------- |
 | Survey of Cultural Awareness in Language Models: Text and Beyond                  | Arxiv 2024           | <https://arxiv.org/pdf/2411.00860>             | []()                                                                                         | []()        |
 | Culturally Aware and Adapted NLP: A Taxonomy and a Survey of the State of the Art | Arxiv 2024           | [2406.03930](https://arxiv.org/pdf/2406.03930) | []()                                                                                         | []()        |
-| Towards Measuring and Modeling “Culture” in LLMs: A Survey                        | Arxiv 2024           | [2403.15412](https://arxiv.org/pdf/2403.15412) | [Github](https://github.com/faridlazuarda/cultural-llm-papers) ⭐ 55 \| 🐛 2 \| 📅 2024-09-26 | Cool paper! |
+| Towards Measuring and Modeling “Culture” in LLMs: A Survey                        | Arxiv 2024           | [2403.15412](https://arxiv.org/pdf/2403.15412) | [Github](https://github.com/faridlazuarda/cultural-llm-papers) ⭐ 56 \| 🐛 2 \| 📅 2024-09-26 | Cool paper! |
 | Challenges and Strategies in Cross-Cultural NLP                                   | ACL 2022             | [2203.10020](https://arxiv.org/abs/2203.10020) | []()                                                                                         | []()        |
 |                                                                                   |                      | []()                                           | []()                                                                                         | []()        |
 
@@ -220,4 +220,4 @@ To the extent possible under law, [Simran Khanuja](https://simran-khanuja.github
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
