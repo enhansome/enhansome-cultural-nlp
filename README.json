@@ -107,7 +107,7 @@
             "open_issues": 4,
             "owner": "nlee0212",
             "repo": "BLEnD",
-            "stars": 51,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:42:24.380Z",
+    "last_updated": "2026-11-13T21:09:58.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for cultural NLP research",
