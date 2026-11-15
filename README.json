@@ -340,17 +340,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Code for our paper on biases across languages in LMs accepted at EMNLP 2023",
+            "description": "Global Voices, Local Biases (EMNLP 2023): WEATHub, a multilingual word-embedding bias benchmark across 24 languages.",
             "homepage": "https://iamshnoo.github.io/global_voices_local_biases/",
             "id": 657837336,
             "language": "TeX",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T09:47:32Z",
+            "last_commit": "2026-11-15T01:10:57Z",
             "open_issues": 0,
             "owner": "iamshnoo",
             "repo": "weathub",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "bias-evaluation",
+              "cultural-bias",
+              "emnlp2023",
+              "multilingual-nlp",
+              "social-bias",
+              "word-embeddings"
+            ]
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
         },
@@ -845,7 +852,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:41:03.896Z",
+    "last_updated": "2026-11-15T20:07:23.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for cultural NLP research",
