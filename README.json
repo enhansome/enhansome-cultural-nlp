@@ -44,7 +44,7 @@
             "open_issues": 0,
             "owner": "MinhDucBui",
             "repo": "Multi3Hate",
-            "stars": 18,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-28T23:50:50.558Z"
@@ -616,7 +616,7 @@
                 "open_issues": 0,
                 "owner": "MinhDucBui",
                 "repo": "Multi3Hate",
-                "stars": 18,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:50:50.558Z"
@@ -852,7 +852,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:33:16.031Z",
+    "last_updated": "2026-11-20T22:06:01.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for cultural NLP research",
